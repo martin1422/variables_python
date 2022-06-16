@@ -25,4 +25,5 @@ print('Resultado de la suma: ', operacion)
 operacion = numero_2 - numero_1
 
 # Imprimir en pantalla el resultado de la Resta
-print('Resultado de la Resta: ', operacion)
+print('Resultado de la Resta: ', operacion) 
+
